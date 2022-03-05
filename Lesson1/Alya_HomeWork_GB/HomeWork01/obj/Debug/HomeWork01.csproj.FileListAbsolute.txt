@@ -1,0 +1,8 @@
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\obj\Debug\HomeWork01.csproj.AssemblyReference.cache
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\obj\Debug\HomeWork01.csproj.SuggestedBindingRedirects.cache
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\obj\Debug\HomeWork01.csproj.CoreCompileInputs.cache
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\bin\Debug\HomeWork01.exe.config
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\bin\Debug\HomeWork01.exe
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\bin\Debug\HomeWork01.pdb
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\obj\Debug\HomeWork01.exe
+F:\Learn\C#\Alya_HomeWork_GB\HomeWork01\obj\Debug\HomeWork01.pdb
