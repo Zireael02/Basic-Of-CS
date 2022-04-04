@@ -1,0 +1,6 @@
+F:\Learn\C#\Lesson5\AlyaUtils\bin\Debug\AlyaUtils.dll
+F:\Learn\C#\Lesson5\AlyaUtils\bin\Debug\AlyaUtils.pdb
+F:\Learn\C#\Lesson5\AlyaUtils\obj\Debug\AlyaUtils.csproj.AssemblyReference.cache
+F:\Learn\C#\Lesson5\AlyaUtils\obj\Debug\AlyaUtils.csproj.CoreCompileInputs.cache
+F:\Learn\C#\Lesson5\AlyaUtils\obj\Debug\AlyaUtils.dll
+F:\Learn\C#\Lesson5\AlyaUtils\obj\Debug\AlyaUtils.pdb

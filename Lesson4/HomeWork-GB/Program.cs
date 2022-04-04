@@ -60,6 +60,7 @@ namespace HomeWork_GB
                 array = new int[size.Length];
                 for (int i = 0; i < size.Length; i++)
                     array[i] = int.Parse(size[i]);
+                Write($"{array}\t");
             }
             else Console.WriteLine("ОШИБКА: файл не найден");
 

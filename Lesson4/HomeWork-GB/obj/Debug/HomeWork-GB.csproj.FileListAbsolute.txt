@@ -9,3 +9,14 @@ F:\Learn\C#\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.pdb
 F:\Learn\C#\Lesson4\HomeWork-GB\bin\Debug\Alya-Utils.dll
 F:\Learn\C#\Lesson4\HomeWork-GB\bin\Debug\Alya-Utils.pdb
 F:\Learn\C#\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.CopyComplete
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\bin\Debug\HomeWork-GB.exe.config
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\bin\Debug\HomeWork-GB.exe
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\bin\Debug\HomeWork-GB.pdb
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\bin\Debug\Alya-Utils.dll
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\bin\Debug\Alya-Utils.pdb
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.AssemblyReference.cache
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.SuggestedBindingRedirects.cache
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.CoreCompileInputs.cache
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.CopyComplete
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.exe
+F:\Learn\GB\Basic-of-cs\Lesson4\HomeWork-GB\obj\Debug\HomeWork-GB.pdb

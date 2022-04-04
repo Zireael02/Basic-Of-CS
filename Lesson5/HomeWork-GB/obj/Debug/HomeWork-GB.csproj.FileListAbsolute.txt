@@ -1,0 +1,11 @@
+F:\Learn\C#\Lesson5\HomeWork-GB\bin\Debug\HomeWork-GB.exe.config
+F:\Learn\C#\Lesson5\HomeWork-GB\bin\Debug\HomeWork-GB.exe
+F:\Learn\C#\Lesson5\HomeWork-GB\bin\Debug\HomeWork-GB.pdb
+F:\Learn\C#\Lesson5\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.AssemblyReference.cache
+F:\Learn\C#\Lesson5\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.SuggestedBindingRedirects.cache
+F:\Learn\C#\Lesson5\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.CoreCompileInputs.cache
+F:\Learn\C#\Lesson5\HomeWork-GB\obj\Debug\HomeWork-GB.exe
+F:\Learn\C#\Lesson5\HomeWork-GB\obj\Debug\HomeWork-GB.pdb
+F:\Learn\C#\Lesson5\HomeWork-GB\bin\Debug\AlyaUtils.dll
+F:\Learn\C#\Lesson5\HomeWork-GB\bin\Debug\AlyaUtils.pdb
+F:\Learn\C#\Lesson5\HomeWork-GB\obj\Debug\HomeWork-GB.csproj.CopyComplete
